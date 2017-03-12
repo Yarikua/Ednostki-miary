@@ -3,9 +3,21 @@ html {
 }
 
 #container{ 
-    font-size: 30px;
+    font-size: 25px;
+}
+
+#container > div{
+background-color: yellow
+}
+
+#pixels {
+    width: 400px;
 }
 
 #em {
     font-size: 2em;
+}
+
+#vw{
+    width: 60vw;
 }
