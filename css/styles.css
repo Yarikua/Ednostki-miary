@@ -21,3 +21,11 @@ background-color: yellow
 #vw{
     width: 60vw;
 }
+
+#vh{
+    width: 60vh;
+}
+
+#vmin{
+    width: 100vmin;
+}
