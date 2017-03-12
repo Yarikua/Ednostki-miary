@@ -7,7 +7,7 @@ html {
 }
 
 #container > div{
-background-color: yellow
+background-color: rgba(105, 118, 89, 0.56);
 }
 
 #pixels {
